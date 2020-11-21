@@ -1,6 +1,6 @@
 # quizz_sans_bdd
 - Ce projet contient un quizz de 5 questions.
-- Chacune des questions ne contiennent qu'une seule bonne réponse et 3 choix sont proposés à l'utilisateur
+- Chacune des questions ne contient qu'une seule bonne réponse et 3 choix sont proposés à l'utilisateur
 
 Utilisation:
 
